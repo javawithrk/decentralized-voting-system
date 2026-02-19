@@ -145,15 +145,17 @@ This project demonstrates:
 
 ---
 
-## 📷 Screenshots (Add Yours)
+## 📷 Application Screenshots
 
-Add screenshots here after running the project:
+### 🏠 Voting Page
+![Voting Page](screenshots/dashboard.png)
 
-```
-/blockchain-voting/screenshots/dashboard.png
-/blockchain-voting/screenshots/chart.png
-/blockchain-voting/screenshots/blockchain.png
-```
+### 📊 Analytics Dashboard
+![Analytics](screenshots/chart.png)
+
+### 🔗 Blockchain Records
+![Blockchain](screenshots/blockchain.png)
+
 
 ---
 
