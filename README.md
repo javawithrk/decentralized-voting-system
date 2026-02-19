@@ -148,13 +148,13 @@ This project demonstrates:
 ## 📷 Application Screenshots
 
 ### 🏠 Voting Page
-![Voting Page](screenshots/dashboard.png)
+![Voting Page](blockchain-voting/screenshots/dashboard.png)
 
 ### 📊 Analytics Dashboard
-![Analytics](screenshots/chart.png)
+![Analytics](blockchain-voting/screenshots/chart.png)
 
 ### 🔗 Blockchain Records
-![Blockchain](screenshots/blockchain.png)
+![Blockchain](blockchain-voting/screenshots/blockchain.png)
 
 
 ---
