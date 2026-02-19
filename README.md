@@ -150,9 +150,9 @@ This project demonstrates:
 Add screenshots here after running the project:
 
 ```
-/screenshots/dashboard.png
-/screenshots/chart.png
-/screenshots/blockchain.png
+/blockchain-voting/screenshots/dashboard.png
+/blockchain-voting/screenshots/chart.png
+/blockchain-voting/screenshots/blockchain.png
 ```
 
 ---
