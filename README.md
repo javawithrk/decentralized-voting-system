@@ -169,7 +169,7 @@ Add screenshots here after running the project:
 
 ## 👨‍💻 Author
 
-**RK UCHIHA**
+**Rajkumar**
 Java Full Stack Developer
 
 ---
